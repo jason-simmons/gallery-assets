@@ -2,8 +2,8 @@
 
 {
 	"filename": "foot.png",
-	"frame": {"x":722,"y":93,"w":63,"h":122},
-	"rotated": true,
+	"frame": {"x":565,"y":126,"w":63,"h":122},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":339,"y":820,"w":63,"h":122},
 	"sourceSize": {"w":1024,"h":1024},
@@ -11,7 +11,7 @@
 },
 {
 	"filename": "hand.png",
-	"frame": {"x":846,"y":93,"w":61,"h":75},
+	"frame": {"x":596,"y":2,"w":61,"h":75},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":165,"y":63,"w":61,"h":75},
@@ -20,8 +20,8 @@
 },
 {
 	"filename": "head.png",
-	"frame": {"x":745,"y":2,"w":89,"h":127},
-	"rotated": true,
+	"frame": {"x":474,"y":126,"w":89,"h":127},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":468,"y":56,"w":89,"h":127},
 	"sourceSize": {"w":1024,"h":1024},
@@ -29,8 +29,8 @@
 },
 {
 	"filename": "lower-arm.png",
-	"frame": {"x":596,"y":82,"w":124,"h":97},
-	"rotated": false,
+	"frame": {"x":375,"y":126,"w":124,"h":97},
+	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":201,"y":121,"w":124,"h":97},
 	"sourceSize": {"w":1024,"h":1024},
@@ -38,7 +38,7 @@
 },
 {
 	"filename": "lower-leg.png",
-	"frame": {"x":364,"y":126,"w":58,"h":224},
+	"frame": {"x":2,"y":176,"w":58,"h":224},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":369,"y":626,"w":58,"h":224},
@@ -47,19 +47,19 @@
 },
 {
 	"filename": "torso.png",
-	"frame": {"x":2,"y":2,"w":186,"h":360},
+	"frame": {"x":2,"y":2,"w":172,"h":360},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":419,"y":144,"w":186,"h":360},
+	"spriteSourceSize": {"x":426,"y":144,"w":172,"h":360},
 	"sourceSize": {"w":1024,"h":1024},
 	"pivot": {"x":0.5,"y":0.5}
 },
 {
 	"filename": "upper-arm.png",
-	"frame": {"x":596,"y":2,"w":147,"h":78},
+	"frame": {"x":228,"y":176,"w":145,"h":58},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":302,"y":186,"w":147,"h":78},
+	"spriteSourceSize": {"x":302,"y":186,"w":145,"h":58},
 	"sourceSize": {"w":1024,"h":1024},
 	"pivot": {"x":0.5,"y":0.5}
 },
@@ -77,8 +77,8 @@
 	"version": "1.0",
 	"image": "jumpingjack.png",
 	"format": "RGBA8888",
-	"size": {"w":909,"h":190},
+	"size": {"w":659,"h":255},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:d45efa15f41a53fe763344019cb7398a:58897d5d54e0121a0a2ba15cb6eda0f1:67db409c3740c609a74b59bcc48a57be$"
+	"smartupdate": "$TexturePacker:SmartUpdate:896bf6d7856484152ea4eb58fceaa42e:54cd14ee1bf1bb3df8f56082e22923ad:67db409c3740c609a74b59bcc48a57be$"
 }
 }
