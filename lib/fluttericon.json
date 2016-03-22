@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "particle-0.png",
+	"frame": {"x":2,"y":786,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":50,"h":50},
+	"sourceSize": {"w":64,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "text.png",
+	"frame": {"x":2,"y":2,"w":609,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":609,"h":172},
+	"sourceSize": {"w":612,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wing-left.png",
+	"frame": {"x":2,"y":176,"w":304,"h":608},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":80,"w":304,"h":608},
+	"sourceSize": {"w":768,"h":768},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wing-right.png",
+	"frame": {"x":308,"y":176,"w":304,"h":608},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":384,"y":80,"w":304,"h":608},
+	"sourceSize": {"w":768,"h":768},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fluttericon.png",
+	"format": "RGBA8888",
+	"size": {"w":614,"h":838},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d5efded4277cd2bd2805bbc44b1f7b4b:e045567fcedb160d9e549167bdb9e0f3:4f38025d99459cfe931b1f76b376bf29$"
+}
+}
