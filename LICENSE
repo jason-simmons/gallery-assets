@@ -33,9 +33,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The following files are from http://materialdesignicons.com and released under
 the SIL Open Font License, Version 1.1 (complete license copied below):
 
-lib/icon-rain.png
-lib/icon-snow.png
-lib/icon-sun.png
+lib/weather_demo/icon-rain.png
+lib/weather_demo/icon-snow.png
+lib/weather_demo/icon-sun.png
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
